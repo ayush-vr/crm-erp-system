@@ -1,6 +1,5 @@
 # crm-erp-system
 
-![License](https://img.shields.io/badge/license-Fair-codeLicense-green)
 
 ## 📝 Description
 
